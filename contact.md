@@ -2,7 +2,7 @@
 layout: contact
 title: Contact
 slug: /contact
-items:
+
   - title: Contact me on social media
     image:
       src: /assets/img/work/water.png
